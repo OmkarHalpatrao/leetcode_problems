@@ -1,0 +1,5 @@
+strings questions
+
+1.Remove all adjacent duplicates from string 
+   
+   first we will take a empty string then will check  leftmost or last element of temp string with each element of given string if it is same then pop that element or if it is different then push the element to temp string.
