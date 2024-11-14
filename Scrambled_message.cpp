@@ -1,4 +1,9 @@
+//ASKED in EPAM 
+/*givem a string , remove duplicates from each word and sort the leatter of word and print
+ input = "bcddea tsqprt";
 
+ output = "abcdr pqrst"
+*/
 #include <iostream>
 #include <bits/stdc++.h>
 using namespace std;
